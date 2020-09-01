@@ -4,7 +4,6 @@
     "project": "./tsconfig.json"
   },
   "rules": {
-    "@typescript-eslint/strict-boolean-expression": "off",
     "@typescript-eslint/comma-spacing": "off",
     "@typescript-eslint/return-await": "off"
   }
